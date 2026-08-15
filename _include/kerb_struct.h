@@ -2,9 +2,9 @@
 
 typedef unsigned int uint;
 typedef unsigned char byte;
-typedef int bool;
-#define true 1
-#define false 0
+// typedef int bool;
+// #define true 1
+// #define false 0
 
 enum KRB_KEY_USAGE {
 	KRB_KEY_USAGE_AS_REQ_PA_ENC_TIMESTAMP = 1,
